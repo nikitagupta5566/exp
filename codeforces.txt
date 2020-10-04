@@ -33,4 +33,6 @@ int main()
 	}
 	else
 	cout<<"no";
+
+cout<<"ih";
 }
